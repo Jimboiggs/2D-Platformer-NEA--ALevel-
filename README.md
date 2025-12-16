@@ -19,3 +19,6 @@ Features and techniques:
 • Saving to text files
 • Merge sort
 • Vectors
+
+Video test:
+https://www.youtube.com/watch?v=eI9u33uxcCE&t=221s
